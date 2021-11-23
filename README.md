@@ -1,2 +1,2 @@
-# LIC-App
-App for LIC agents and customers.
+# AR Map
+AR Map
