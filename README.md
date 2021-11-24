@@ -1,2 +1,2 @@
-# AR Map
-AR Map
+# College Project
+Map
