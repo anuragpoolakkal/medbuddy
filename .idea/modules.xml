@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/cluster.iml" filepath="$PROJECT_DIR$/cluster.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/cluster_android.iml" filepath="$PROJECT_DIR$/android/cluster_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/planbud.iml" filepath="$PROJECT_DIR$/planbud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/planbud_android.iml" filepath="$PROJECT_DIR$/android/planbud_android.iml" />
     </modules>
   </component>
 </project>
