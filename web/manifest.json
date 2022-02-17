@@ -1,6 +1,6 @@
 {
-    "name": "planbud",
-    "short_name": "planbud",
+    "name": "flutter_todos",
+    "short_name": "flutter_todos",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
