@@ -21,6 +21,7 @@ class MyApp extends StatelessWidget {
     final model = Provider.of<GlobalModel>(context)..setContext(context);
 
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: model.appName,
       localizationsDelegates: [
         // ... app-specific localization delegate[s] here
