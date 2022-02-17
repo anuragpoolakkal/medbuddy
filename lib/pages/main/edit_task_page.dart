@@ -13,7 +13,7 @@ import 'package:todo_list/model/task_detail_page_model.dart';
 class EditTaskPage extends StatelessWidget {
   final TaskIconBean taskIconBean;
 
-  //detailModel如果不为空，表示这个页面是从浏览页面过来的
+  //detailModel
   final TaskDetailPageModel taskDetailPageModel;
 
   EditTaskPage(
