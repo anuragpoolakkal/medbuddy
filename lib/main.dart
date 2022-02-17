@@ -36,7 +36,8 @@ class MyApp extends StatelessWidget {
       ],
       localeResolutionCallback:
           (Locale locale, Iterable<Locale> supportedLocales) {
-        debugPrint("locale:$locale   sups:$supportedLocales  currentLocale:${model.currentLocale}");
+        debugPrint(
+            "locale:$locale   sups:$supportedLocales  currentLocale:${model.currentLocale}");
         if (model.currentLocale == locale) return model.currentLocale;
         for (var supportedLocale in supportedLocales) {
           if (supportedLocale == locale) {
@@ -68,11 +69,11 @@ class MyApp extends StatelessWidget {
     );
   }
 
-  Widget getHomePage(bool goToLogin, bool enableSplashAnimation){
-    if(goToLogin == null) return Container();
-    if(enableSplashAnimation) return new SplashPage();
-    return goToLogin ? ProviderConfig.getInstance().getLoginPage(isFirst: true)
+  Widget getHomePage(bool goToLogin, bool enableSplashAnimation) {
+    if (goToLogin == null) return Container();
+    if (enableSplashAnimation) return new SplashPage();
+    return goToLogin
+        ? ProviderConfig.getInstance().getLoginPage(isFirst: true)
         : ProviderConfig.getInstance().getMainPage();
   }
-
 }
