@@ -38,6 +38,6 @@
 
 # Screenshots
 <pre>
-<img src="assets/screenshots/7.jpg" width="250"> <img src="assets/screenshots/2.jpg" width="250"> <img src="assets/screenshots/3.jpg" width="250"> <img src="assets/screenshots/4.jpg" width="250"> <img src="assets/screenshots/5.jpg" width="250"> <img src="assets/screenshots/6.jpg" width="250"> <img src="assets/screenshots/1.jpg" width="250"> <img src="assets/screenshots/8.jpg" width="250">  
+<img src="assets/screensassets/hots/7.jpg" width="250"> <img src="assets/screenshots/2.jpg" width="250"> <img src="assets/screenshots/3.jpg" width="250"> <img src="assets/screenshots/4.jpg" width="250"> <img src="assets/screenshots/5.jpg" width="250"> <img src="assets/screenshots/6.jpg" width="250"> <img src="assets/screenshots/1.jpg" width="250"> <img src="assets/screenshots/8.jpg" width="250">  
 
 </pre>

@@ -7,3 +7,5 @@ Project Team Members:
 3. Dilshith TS<br>
 4. Sarath S<br>
 5. Suma M<br>
+
+<a href="/doc.md">DOCUMENTATION</a>
