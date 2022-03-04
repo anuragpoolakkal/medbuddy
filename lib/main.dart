@@ -40,9 +40,7 @@ GlobalBloc globalbloc;
                  primarySwatch: Colors.green,
                  brightness: Brightness.light,
              );
-             home: tab(),
-             debugShowCheckedModeBanner: false,
-            
+             home: tab(),          
          ),
     );
  }
