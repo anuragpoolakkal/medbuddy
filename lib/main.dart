@@ -26,5 +26,24 @@ class MyApp extends StatefulWidget {
     }
 }
 class _medbuddy extends State<medbuddy>{
-
+GlobalBloc globalbloc;
+ void initState(){
+     globalbloc = GlobalBloc();
+     super.initState();
+ }
+ @override
+ Widget build(BuildContext context){
+     return Provider<GlobalBloc>.value(
+         value: globalbloc,
+         child: MaterialApp(
+             theme: ThemeData(
+                 primarySwatch: Colors.green,
+                 brightness: Brightness.light,
+             );
+             home: tab(),
+             debugShowCheckedModeBanner: false,
+            
+         ),
+    );
+ }
 } 
