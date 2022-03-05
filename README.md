@@ -2,8 +2,8 @@
 Medbuddy is a mobile app used to remind a person about the medicines they have to take. This app is built using Flutter in Dart language.
 
 Project Team Members:
-1. <a href="https://www.github.com/anuragrajanp">Anurag P</a><br>
-2. <a href="https://www.github.com/maheshp2002">Mahesh P</a><br>
+1. <a href="https://www.github.com/maheshp2002">Mahesh P</a><br>
+2. <a href="https://www.github.com/anuragrajanp">Anurag P</a><br>
 3. <a href="https://www.github.com/abnormaldil">Dilshith TS</a><br>
 4. <a href="https://www.github.com/sarathselvan">Sarath S</a><br>
 5. <a href="https://www.github.com/sumasukumaran">Suma M</a><br>
