@@ -1,6 +1,6 @@
 # Medbuddy
 
-<a href="https://www.github.com/maheshp2002">BACKUP</a>
+<a href="https://www.github.com/maheshp2002/medbuddy-backup">BACKUP</a>
 
 Medbuddy is a mobile app used to remind a person about the medicines they have to take. This app is built using Flutter in Dart language.
 
